@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ORD-20261007-2923",
+    "recipientName": "김영선",
+    "phone": "01012345678",
+    "address": "충주시 대림5길",
+    "addressDetail": "102호",
+    "deliveryNote": "문 앞에 두고 벨 눌러주세요",
+    "packageType": "1box",
+    "productName": "자연온 50곡 순수 생식",
+    "boxCount": "1박스 (30포 / 보틀 1개)",
+    "totalPrice": 48000,
+    "paymentMethod": "신용/체크카드 (현대카드 1111-2222-****)",
+    "paymentStatus": "결제완료",
+    "status": "주문접수",
+    "createdAt": "2026-10-07T05:14:22.147Z"
+  },
+  {
+    "id": "ORD-20261007-7418",
+    "recipientName": "스테판",
+    "phone": "010-1234-5678",
+    "address": "서울시 강남구 테헤란로 123",
+    "addressDetail": "",
+    "deliveryNote": "문 앞에 두고 벨 눌러주세요",
+    "packageType": "1box",
+    "productName": "자연온 50곡 순수 생식",
+    "boxCount": "1박스 (30포 / 보틀 1개)",
+    "totalPrice": 48000,
+    "paymentMethod": "신용/체크카드 (국민카드 1111-2222-****)",
+    "paymentStatus": "결제완료",
+    "status": "배송중",
+    "createdAt": "2026-10-07T05:11:50.558Z"
+  },
+  {
+    "id": "ORD-20261007-5039",
+    "recipientName": "김영선",
+    "phone": "01077350202",
+    "address": "서울시 강남구 테헤란로 123",
+    "addressDetail": "",
+    "deliveryNote": "문 앞에 두고 벨 눌러주세요",
+    "packageType": "1box",
+    "productName": "자연온 50곡 순수 생식",
+    "boxCount": "1박스 (30포 / 보틀 1개)",
+    "totalPrice": 48000,
+    "paymentMethod": "card",
+    "paymentStatus": "결제완료",
+    "status": "주문접수",
+    "createdAt": "2026-10-07T03:34:17.831Z"
+  }
+]
